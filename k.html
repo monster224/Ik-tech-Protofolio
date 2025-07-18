@@ -13,7 +13,7 @@
 <body>
     <nav>
       <div class="left">
-        <img src="c:\Users\R c\Desktop\protofolio\tec.PNG" alt="">
+        <img src="https://scontent.flhe2-3.fna.fbcdn.net/v/t39.30808-6/518335626_740772471873542_446481917397806082_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KUk1fy2qDQEQ7kNvwGv0fCJ&_nc_oc=AdnXGKqSP4_4om-1LM7ZQJAfhExXn85D9pf-Jhr9pBurDZDQdWUsQPZZQrAINyGwMlU&_nc_zt=23&_nc_ht=scontent.flhe2-3.fna&_nc_gid=rN3lRHVbHVUFaZ5etgx2sQ&oh=00_AfTCnLFsftaYfYZTZ-23BpQ6dp5mrdRXJWs5hvbfOEY1LQ&oe=68809C73" alt="">
       </div>
       <div class="right">
         <div class="ref">
@@ -53,13 +53,13 @@
             <button>Download CV</button>
           </div>
           <div class="right">
-            <img src="c:\Users\R c\Desktop\protofolio\tec.PNG" alt="">
+            <img src="https://scontent.flhe2-3.fna.fbcdn.net/v/t39.30808-6/518335626_740772471873542_446481917397806082_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KUk1fy2qDQEQ7kNvwGv0fCJ&_nc_oc=AdnXGKqSP4_4om-1LM7ZQJAfhExXn85D9pf-Jhr9pBurDZDQdWUsQPZZQrAINyGwMlU&_nc_zt=23&_nc_ht=scontent.flhe2-3.fna&_nc_gid=rN3lRHVbHVUFaZ5etgx2sQ&oh=00_AfTCnLFsftaYfYZTZ-23BpQ6dp5mrdRXJWs5hvbfOEY1LQ&oe=68809C73" alt="">
           </div>
     </section>
    <br><hr>
     <section id="sec2">
         <div class="left">
-            <img src="c:\Users\R c\Desktop\protofolio\WhatsApp Image 2025-07-16 at 16.58.33_c9a3a87a.jpg" alt="">
+            <img src="https://scontent.flhe2-4.fna.fbcdn.net/v/t39.30808-6/518388590_740776171873172_6063641110922188494_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IfrP0BIKLbUQ7kNvwHYDzTI&_nc_oc=Adl1EeeL2QQUTBJzvBNE6IhXmmm6jnCVdvp-mopU2bggAhKBBdEWBKzSm7hnaJSf5K4&_nc_zt=23&_nc_ht=scontent.flhe2-4.fna&_nc_gid=YpesTjojvozeTcIS2elEhg&oh=00_AfRmDuOkcA5-qUrrPDCHSFA5jp0Nb02YLZK40ASyctXKGQ&oe=6880B47C" alt="">
         </div>
         <div class="right">
         <h1>About <h2>ME</h2></h1><br>
@@ -103,10 +103,10 @@
     <section id="sec4">
       <h4>Latest Projects</h4><br>
       <h1>My<h2>Portfolio</h2></h1><br><br>
-      <img src="c:\Users\R c\Desktop\protofolio\images (6).jpeg" alt="">
-      <img src="c:\Users\R c\Desktop\protofolio\qamsoftlogo.png" alt="">
-      <img src="c:\Users\R c\Desktop\protofolio\aeea3c79-a533-4461-a087-18c19937701d.jpeg" alt="">
-      <img src="c:\Users\R c\Desktop\protofolio\smc.PNG" alt="">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvxNZezJeOREtX5zAg1mdaibj86VPF0oxYVw&s" alt="">
+      <img src="https://www.qamsoft.com/assets/images/main-logo.png" alt="">
+      <img src="data:image/jpeg;base64,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" alt="">
+      <img src="https://smcgroup.pk/assets/smclog.png" alt="">
     </section>
     <hr>
     <section id="sec7" style="padding: 80px 0; background-color: #f9f9f9;">
@@ -147,7 +147,7 @@
     </h2>
 
     <!-- Large Centered Image -->
-    <img src="https://media.istockphoto.com/id/2212360504/photo/holographic-ui-ux-display-icons-of-ux-ui-designer-creative-planning-data-visualization-web.webp?a=1&b=1&s=612x612&w=0&k=20&c=tglFI9NeJVQNtibp78qcgjGBPkX43btcoxkLc1RN2_o=" 
+    <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/518410240_740776441873145_4377453957267678396_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=1X8Kf28POiIQ7kNvwE96uO-&_nc_oc=Adk_ZROkfUuZLSZ8oDfDB_Tv5pP7tx6SB7oMRkg_8iywkD5C5xhSGyFKpGHk5QVChXw&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&_nc_gid=Mln3yLX5P6Ku7UkYMzrhIg&oh=00_AfSwX6hzOxlDywr9efYzMQrwg-1F2YSdLGuj3DQAEff8Mg&oe=688093F5" 
          alt="Development Environment Diagram"
          style=" width: 1000px; height: 500px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); border-radius: 16px;">
          
@@ -278,7 +278,7 @@
   <!-- Heading Centered -->
  <div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-bottom: 40px;">
   <!-- Logo Image -->
-  <img src="c:\Users\R c\Desktop\protofolio\tec.PNG" alt="IK Technologies Logo" style="height: 100px; width: 150px;">
+  <img src="https://scontent.flhe2-3.fna.fbcdn.net/v/t39.30808-6/518335626_740772471873542_446481917397806082_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KUk1fy2qDQEQ7kNvwGv0fCJ&_nc_oc=AdnXGKqSP4_4om-1LM7ZQJAfhExXn85D9pf-Jhr9pBurDZDQdWUsQPZZQrAINyGwMlU&_nc_zt=23&_nc_ht=scontent.flhe2-3.fna&_nc_gid=rN3lRHVbHVUFaZ5etgx2sQ&oh=00_AfTCnLFsftaYfYZTZ-23BpQ6dp5mrdRXJWs5hvbfOEY1LQ&oe=68809C73" alt="IK Technologies Logo" style="height: 100px; width: 150px;">
 
   <!-- Heading -->
   <h2 style="color: #00d8ff; font-size: 50px; margin: 0;">IK Technologies</h2>
