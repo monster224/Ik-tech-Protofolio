@@ -1,3 +1,4 @@
+/* Your Original Code (unchanged) */
 *{
     margin: 0%;
     padding: 0%;
@@ -84,7 +85,6 @@ p{
     position: absolute;
     top: 130px;
     left: 1000px;
-    /* box-shadow: 10px 10px 5px black; */
 }
 i{
     color: aqua;
@@ -348,3 +348,102 @@ footer a:hover {
   text-decoration: underline;
 }
 
+/* ✅ Added Media Queries for Screen Size Responsiveness */
+@media (max-width: 768px) {
+  .ref, nav {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-left: 0;
+  }
+
+  .right {
+    position: static;
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  #sec1 img, #sec2 img, textarea, input {
+    width: 90% !important;
+    margin: 10px auto !important;
+  }
+
+  #sec5 form, #sec5 button {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  #sec1 h4, h1, h2, h3, h4, #sec3 h2, #sec4 h2, #sec5 h2 {
+    margin-left: 0 !important;
+    text-align: center;
+  }
+
+  .icons {
+    justify-content: center;
+    margin-left: 0;
+  }
+
+  #sec5 button {
+    width: 80%;
+  }
+
+  #sec4 img {
+    margin: 0 auto 40px auto;
+  }
+
+  .box {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (max-width: 768px) {
+    h1, h2, h3, h4 {
+        font-size: 6vw;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .ref {
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0;
+        gap: 10px;
+    }
+
+    #sec1 h4 {
+        position: static;
+        margin: 20px auto;
+        text-align: center;
+    }
+
+    #sec1 button,
+    #sec5 button {
+        width: 80%;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+
+    .left img {
+        margin: 0 auto;
+    }
+
+    .right form {
+        margin: auto;
+    }
+
+    textarea {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #sec4 h1, #sec4 h2 {
+        margin: 0;
+    }
+
+    #sec4 img {
+        margin: auto;
+    }
+}
